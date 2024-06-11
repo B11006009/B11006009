@@ -15,7 +15,7 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <td>朱 O 立</td>
  </tr>
  <tr>
- <td><a href="https://lm.chu.edu.tw/index.php?Lang=zh-tw">機械</a></td>
+ <td><a href="https://lm.chu.edu.tw/index.php?Lang=zh-tw">機械系</a></td>
  <td><a href="https://lm.chu.edu.tw/p/412-1040-117.php?Lang=zh-tw">實習</a></td>
  <td><a href="">資料視覺化</a></td>
  <td>林 O 駿</td>
